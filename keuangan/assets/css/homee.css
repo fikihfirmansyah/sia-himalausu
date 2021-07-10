@@ -1,0 +1,69 @@
+body{
+	font-family:Calibri;
+	margin:0;
+	padding:0;
+}
+
+#atas{
+	height:105px;
+	background-color:rgb(52, 61, 255);
+}
+
+#tengah{
+	min-height:470px;
+	padding-top:20px;
+}
+
+#bawah{
+	height:65px;
+	background-color:rgb(77, 77, 77);
+	color:white;
+	line-height:70px;
+	font-size:11px;
+}
+
+#bungkus_atas{
+	width: 50%;
+	font-size:20px;
+	color:white;
+}
+
+#atas_1{
+	float:left;
+}
+
+img{
+	width:100px;
+	height:100px;
+	padding:5px;
+}
+
+#atas_2{
+	padding:30px;
+	text-align:center;
+}
+
+#bungkus_tengah{
+	width: 50%;
+}
+
+#input{
+	float:left;
+	width:100%;
+	background:#f0f0f0;
+}
+
+#table_output{
+	width:400px;
+}
+
+#hasil{
+	border:1px;
+	width:400px;
+	border-spacing:0px;
+	border-collapse: separate;
+}
+
+#judul{
+	background:#4db849;
+}
