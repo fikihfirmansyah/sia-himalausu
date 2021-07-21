@@ -27,7 +27,7 @@
 
 <h4 class="ui horizontal divider header">
 	<i class="student icon"></i>
-		Selamat Datang Buat Kamu
+		Selamat Datang Fikih
 </h4>
 
 <div class="content">
